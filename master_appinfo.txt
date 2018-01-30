@@ -1,1 +1,1 @@
-versionCode=1##versionName=1.0##updateMemo=重要更新： 修复了搜索引擎不能用的问题 请使用浏览器打开下载##updatelink=http://d89.ysapk.com/adv/btappmg/BtSearchMg_yx_1.2.apk##updateOpenType=down##appStatu=1##adOpen=1##hpLink=http://dafuvip.com/BjyMva##btFilter=1##testModelOpen=1##cloudPlay=0##btIndex=0@1@6@3##
+versionCode=1##versionName=1.0##updateMemo=重要更新： 修复了搜索引擎不能用的问题 请使用浏览器打开下载##updatelink=http://d89.ysapk.com/adv/btappmg/BtSearchMg_yx_1.2.apk##updateOpenType=down##appStatu=1##adOpen=1##hpLink=http://dafuvip.com/BjyMva##btFilter=1##testModelOpen=1##cloudPlay=0##btIndex=0@1@6@2##

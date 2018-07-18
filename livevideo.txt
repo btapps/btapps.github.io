@@ -1,1 +1,1 @@
-versionCode=1##versionName=1.0##updateMemo=重要更新##updatelink=##updateOpenType=down##appStatu=1##adOpen=1##hpLink=https://btapps.github.io/mg.html##btFilter=0##testModelOpen=0##btIndex=1@6@5@4##jxUrl=https://www.ixxplayer.com/video.php?url=##playUrl=##tvCode=180716##tvFile=##
+versionCode=1##versionName=1.0##updateMemo=重要更新##updatelink=##updateOpenType=down##appStatu=1##adOpen=1##hpLink=https://btapps.github.io/mg.html##btFilter=0##testModelOpen=0##btIndex=1@6@5@4##jxUrl=https://www.ixxplayer.com/video.php?url=##playUrl=##tvCode=180718##tvFile=##
